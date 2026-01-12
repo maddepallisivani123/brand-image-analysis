@@ -1,0 +1,4 @@
+📁 yolov7/
+ └── best.pt   (placeholder – upload trained weights or leave empty)
+📁 resnet_embeddings/
+ └── embeddings.npy (optional placeholder)
